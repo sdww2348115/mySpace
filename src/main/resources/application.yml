@@ -1,0 +1,10 @@
+server:
+  port: 8081
+
+spring:
+  datasource:
+    name: db1
+    url: jdbc:mysql://192.168.1.105:3306/mySpace
+    username: sdww
+    password: sdww
+    driver-class-name: com.mysql.jdbc.Driver
